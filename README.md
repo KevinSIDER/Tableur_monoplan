@@ -4,6 +4,8 @@
 
 **Auteurs :** Kevin SIDER & Rayan LADRAIT
 
+![Illustration du tableur monoplan en utilisation](https://github.com/KevinSIDER/Tableur_monoplan/blob/a84568e757570bce1d96f97f5c4f5d1d1042bd38/illustration_tableur.png)
+
 ---
 
 ## 📋 Fonctionnalités
